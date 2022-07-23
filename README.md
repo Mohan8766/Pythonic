@@ -99,12 +99,12 @@
 
 ## VPS/Locally deploy!
 ```console
-Zaid@Debian~ $ apt-get -y update
-Zaid@Debian~ $ apt-get -y install git gcc python3-dev
-Zaid@Debian~ $ git clone https://github.com/ITZ-ZAID/ZAID-USERBOT
-Zaid@Debian~ $ cd ZAID-USERBOT
-Zaid@Debian~ $ pip3 install -U-r requirements.txt
-Zaid@Debian~ $ cp sample.env .env
+PYTHONIC~ $ apt-get -y update
+PYTHONIC~ $ apt-get -y install git gcc python3-dev
+PYTHONIC~ $ git clone https://github.com/ITZ-ZAID/ZAID-USERBOT
+PYTHONIC~ $ cd ZAID-USERBOT
+PYTHONIC~ $ pip3 install -U-r requirements.txt
+PYTHONIC~ $ cp sample.env .env
 ```
 
 <h3 align="center">
@@ -112,8 +112,8 @@ Zaid@Debian~ $ cp sample.env .env
 </h3>
 
 ```console
-Zaid@Debian~ $ screen
-Zaid@Debian~ $ python3 main.py
+PYTHONIC~ $ screen
+PYTHONIC~ $ python3 main.py
 ```
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
