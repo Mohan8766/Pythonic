@@ -112,6 +112,7 @@ PYTHONIC~ $ cp sample.env .env
 </h3>
 
 ```console
+
 PYTHONIC~ $ screen
 PYTHONIC~ $ python3 main.py
 ```
@@ -119,6 +120,7 @@ PYTHONIC~ $ python3 main.py
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
 - Zect Userbot
 - Seden Userbot
+- Zaid Userbot
 - Friday
 - Nana
 - Fox 🦊
