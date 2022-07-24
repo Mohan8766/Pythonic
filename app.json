@@ -1,8 +1,8 @@
 {
-    "name": "Zaid-Userbot",
+    "name": "Pythonic-Userbot",
     "description": "A First Telegram Userbot Project With Multi Client Based On PyroGram!",
-    "logo": "https://telegra.ph/file/9563b48195f2f1c62cc5e.jpg",
-    "repository": "https://github.com/Itz-Zaid/Zaid-Userbot",
+    "logo": "https://telegra.ph/file/fa11d12bf59a6f8689c3b.jpg",
+    "repository": "https://github.com/Mohan8766/pythonic",
     "env": {
         "STRING_SESSION1": {
             "description": "pyrogram string session here",
